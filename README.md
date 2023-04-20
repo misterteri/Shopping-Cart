@@ -16,8 +16,11 @@ Source: https://www.youtube.com/watch?v=tEMrD9t85v4
   - `npm start`
 
 - differences between `npm` and `npx`(2):
+
   - `npm` is a package manager
   - `npx` is a package runner
+
+- when importing css component in one component, it will be applicable to all the components inside of it
 
 # What needs to be done to improve this project
 
