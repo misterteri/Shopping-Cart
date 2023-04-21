@@ -1,6 +1,6 @@
 # Shopping-Cart
 
-Source: https://www.youtube.com/watch?v=tEMrD9t85v4
+Links: https://shopping-cart-misterteri.vercel.app/
 
 # What I learned from this project
 
@@ -38,3 +38,4 @@ Source: https://www.youtube.com/watch?v=tEMrD9t85v4
 (1) https://betterprogramming.pub/creating-a-simple-app-with-react-js-f6aa88998952
 (2) https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm
 (3) https://codeburst.io/a-complete-guide-to-props-children-in-react-c315fab74e7c
+(\*) https://www.youtube.com/watch?v=tEMrD9t85v4
